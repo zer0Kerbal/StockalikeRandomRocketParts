@@ -8,7 +8,7 @@
 repository:
   # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
   # The name of the repository. Changing this will rename the repository
-  name: AlbertKerminIndustries
+  name: StockalikeRandomRocketParts
 
   # A short description of the repository that will show up on GitHub
   description: Stock-alike Random Rocket Parts for Kerbal Space Program.
@@ -52,8 +52,6 @@ repository:
 
   # Either `true` to enable automatic deletion of branches on merge, or `false` to disable
   delete_branch_on_merge: true
-
-  has_discussions: true
 
 # Labels: define labels for Issues and Pull Requests
 labels:
