@@ -8,24 +8,24 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!-- Localizations.md v1.1.3.1
 Localizations.md v1.0.1.0
-Albert Kermin Industries (AKI)
+Stockalike Random Rocket Parts (SaRRP)
 created: 01 Feb 2022
 updated: 30 Mar 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Albert Kermin Industries (AKI)
+# Stockalike Random Rocket Parts (SaRRP)
 
 [Home](./index)
 
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
-* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil)<pt-br.cfg>  
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
+* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil)<pt-br.cfg>  
 * ![Deutsch][DE] German (Deutsch)  <de.cfg>  
 * ![Español][ES] Spanish (Español) <es-es.cfg>  
 * ![Français][FR] French (Français) <fr-fr.cfg>  
