@@ -6,18 +6,18 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.5.0
-Albert Kermin Industries (AKI)
+<!-- ManualInstallation.md v1.1.6.0
+Stockalike Random Rocket Parts (SaRRP)
 created: 01 Oct 2019
-updated: 11 Apr 2022 -->
+updated: 14 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Albert Kermin Industries (AKI)
+# Stockalike Random Rocket Parts (SaRRP)
 
-[Home](./index.md)
+[Home](./index)
 
-Two size zero (0.625m) parts that make up an autonomous return capsule to stuff your experiments in for Kerbal Space Program.
+Stockalike Random Rocket Parts for Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -34,6 +34,7 @@ To install, place the AlbertKerminIndustries folder inside your Kerbal Space Pro
 * Extract the package's `AlbertKerminIndustries/` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/AlbertKerminIndustries` --> `<KSP_ROOT>/GameData/AlbertKerminIndustries`
     * Overwrite any preexisting folder/file(s).
+  * you should end up with `<KSP_ROOT>/GameData/AlbertKerminIndustries/StockalikeRandomRocketParts`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
@@ -44,6 +45,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 * Extract the package's `GameData/AlbertKerminIndustries` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData/AlbertKerminIndustries` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting file.
+  * you should end up with `<KSP_ROOT>/GameData/StockalikeRandomRocketParts`
 
 ## The following file layout must be present after installation
 
@@ -51,19 +53,20 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [AlbertKerminIndustries]
-      + [Assets]
-        ...
-      + [Compatibility]
-        ...
-      + [Localization]
-        ...
-      + [Parts]
-        ...
-      * #.#.#.#.htm
-      * changelog.md
-      * SimpleBSD.txt
-      * readme.htm
-      * AlbertKerminIndustries.version
+      + [StockalikeRandomRocketParts]
+        + [Assets]
+          ...
+        + [Compatibility]
+          ...
+        + [Localization]
+          ...
+        + [Parts]
+          ...
+        * #.#.#.#.htm
+        * changelog.md
+        * CC-BY-ND-4.0.txt
+        * readme.htm
+        * StockalikeRandomRocketParts.version
     ...
   * KSP.log
   ...
