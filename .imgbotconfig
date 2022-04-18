@@ -1,11 +1,8 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "FORUM-01.png",
-        "FORUM-02.png",
-        "FORUM-03.png",
-        "FORUM-04.png",
-        "GameData/MiniSampleReturnCapsule/Parts/@thumbs/*",
+        "GameData/AlbertKerminIndustries/StockalikeRandomRocketParts/Parts/@thumbs/*",
+        "GameData/StockalikeRandomRocketParts/Parts/@thumbs/*",
         "GameData/*",
         "docs/LegalMumboJumbo/*",
         "**/LegalMumboJumbo/**",
