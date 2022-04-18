@@ -14,7 +14,7 @@ repository:
   description: Stock-alike Random Rocket Parts for Kerbal Space Program.
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/85226-*/
+  homepage: "https://forum.kerbalspaceprogram.com/index.php?/topic/85226-*/"
 
   # A comma-separated list of topics to set on the repository
   topics: aki,albert,kermin,rocket,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,zedk
