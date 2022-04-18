@@ -1,7 +1,6 @@
-# Albert Kermin Industries (AKI)
+# Stock-alike Random Rocket Parts
 
-## Stock-alike Random Rocket Parts
-
+## Albert Kermin Industries (AKI)
 
 ### Author(s):
 
