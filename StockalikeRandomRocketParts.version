@@ -1,0 +1,34 @@
+{
+    "NAME"           : "Stockalike Random Rocket Parts (SARRP)",
+    "URL"            : "https://raw.githubusercontent.com/zer0Kerbal/StockalikeRandomRocketParts/master/StockalikeRandomRocketParts.version",
+    "DOWNLOAD"       : "https://github.com/zer0Kerbal/StockalikeRandomRocketParts/releases/latest",
+    "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/StockalikeRandomRocketParts/master/changelog.md",
+    "GITHUB": {
+        "USERNAME": "zer0Kerbal",
+        "REPOSITORY": "StockalikeRandomRocketParts",
+        "ALLOW_PRE_RELEASE": false
+    },
+    "VERSION" :
+    {
+        "MAJOR" : 0,
+        "MINOR" : 1,
+        "PATCH" : 4,
+        "BUILD" : 0
+    },
+    "KSP_VERSION" :
+    {
+        "MAJOR": 0,
+        "MINOR": 0,
+        "PATCH": 25
+    },
+    "KSP_VERSION_MIN" :
+    {
+        "MAJOR": 0,
+        "MINOR": 0,
+        "PATCH": 25
+    },
+    "INSTALL_LOC": {
+        "NAME"     : "StockalikeRandomRocketParts",
+        "DIRECTORY": "AlbertKerminIndustries/StockalikeRandomRocketParts"
+    }
+}
