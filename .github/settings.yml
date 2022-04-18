@@ -15,10 +15,10 @@ repository:
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/85226-*/
-  
+
   # A comma-separated list of topics to set on the repository
   topics: aki,albert,kermin,rocket,parts,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk
-  
+
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
 
@@ -263,11 +263,11 @@ milestones:
   - title: Localization - Master
     description: progress toward total localization
     state: open
-    
+
   - title: Localization - Parts
     description: progress toward PART localization (only for parts)
     state: open
-    
+
   - title: Localization - English (United States) <en-us.cfg>
     description: progress toward English (United States) <en-us.cfg> localization
     state: open
